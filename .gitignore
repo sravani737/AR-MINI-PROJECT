@@ -1,0 +1,52 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity auto-generated metadata for IDEs
+.vs/
+.vscode/
+.idea/
+*.apk
+*.aab
+*.app
+*.ipa
+
+# Addressables and asset pipeline caches
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/
+
+# Burst / il2cpp build output
+*_BurstDebugInformation_DoNotShip/
+Il2CppBuildCache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash and diagnostic output
+sysinfo.txt
+*.stacktrace
